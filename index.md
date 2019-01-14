@@ -15,6 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# Brandon Levesque's first CS193 Lab
+- alternating class and lab
+- layout of the course
+- material covered in the course
+
 - Bulleted
 - List
 
